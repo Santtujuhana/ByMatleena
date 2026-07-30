@@ -10,7 +10,7 @@ Welcome to the Matleena Painting website repository. This project is a stunning,
 
 ## 🚀 Getting Started
 To view this project locally:
-1. Clone the repository: `git clone https://github.com/ByMatleena/ByMatleena.github.io.git`
+1. Clone the repository: `git clone https://github.com/Santtujuhana/ByMatleena.git`
 2. Open `index.html` in your favorite web browser.
 3. No build tools required! This is a clean HTML/CSS/JS project.
 
